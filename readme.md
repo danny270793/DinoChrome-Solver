@@ -16,9 +16,7 @@ The electronic schematic is
 
 ![electronica diagram](./assets/diagram.png)
 
-You can see it working at
-
-[![arduino playing chrome](https://img.youtube.com/vi/OQIgfj6lLDw/default.jpg)](https://youtu.be/OQIgfj6lLDw)
+You can see it working at [Youtube](https://img.youtube.com/vi/OQIgfj6lLDw/default.jpg)](https://youtu.be/OQIgfj6lLDw)
 
 ## Follow me
 
